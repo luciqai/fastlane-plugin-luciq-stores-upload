@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'support@luciq.ai'
 
   spec.summary       = 'Luciq agent for tracking release builds and uploads to App Store and Play Store with comprehensive metadata reporting.'
-  spec.homepage      = "https://github.com/Instabug/fastlane-plugin-instabug-stores-upload"
+  spec.homepage      = "https://github.com/luciqai/fastlane-plugin-luciq-stores-upload"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
